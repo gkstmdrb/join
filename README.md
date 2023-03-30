@@ -10,11 +10,16 @@
 
 ### 내부 조인(등가 조인)
 ![image](https://user-images.githubusercontent.com/114748816/228697677-1249b220-123d-4807-b98a-241de1d10be3.png) <br><br>
+
+employees 테이블에서 last_name을 조회하고 <br>
+departments 테이블에서 department_name을 조회한다.
+
 ### 내부 조인(비등가 조인)
 ![image](https://user-images.githubusercontent.com/114748816/228698125-e0de7735-7651-4cc6-80c0-1c567ca8658d.png) <br><br><br><br>
 
 ## 외부 조인
 외부 조인은 조건을 만족하지 않는 행도 모두 출력하는 조인 기법이다. <br><br>
+
 ### 예제
 ![image](https://user-images.githubusercontent.com/114748816/228698724-388dd970-9e90-467d-af4f-39e25dfd8050.png) <br><br><br><br>
 
