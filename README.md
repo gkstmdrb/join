@@ -11,9 +11,6 @@
 ### 내부 조인(등가 조인)
 ![image](https://user-images.githubusercontent.com/114748816/228697677-1249b220-123d-4807-b98a-241de1d10be3.png) <br><br>
 
-employees 테이블에서 last_name을 조회하고 <br>
-departments 테이블에서 department_name을 조회한다.
-
 ### 내부 조인(비등가 조인)
 ![image](https://user-images.githubusercontent.com/114748816/228698125-e0de7735-7651-4cc6-80c0-1c567ca8658d.png) <br><br><br><br>
 
